@@ -1,0 +1,23 @@
+g=nan		r=nan%		s=nan
+g=nan		r=nan%		s=nan
+g=nan		r=nan%		s=nan
+g=nan		r=nan%		s=nan
+g=nan		r=nan%		s=nan
+g=nan		r=nan%		s=nan
+g=nan		r=nan%		s=nan
+g=nan		r=nan%		s=nan
+g=nan		r=nan%		s=nan
+g=nan		r=nan%		s=2.87
+g=1.00		r=1000%		s=2.87
+g=1.00		r=500%		s=2.87
+g=1.00		r=333%		s=2.87
+g=1.00		r=250%		s=2.87
+g=1.00		r=200%		s=2.87
+g=1.00		r=167%		s=2.87
+g=1.00		r=143%		s=2.87
+g=1.00		r=125%		s=2.87
+g=1.00		r=111%		s=2.87
+g=1.00		r=100%		s=2.87
+g=1.00		r=91%		s=2.87
+Global tendency switched 0 times
+5 weirdest values are [2.0, 2.0, 2.0, 2.0, 2.0]
